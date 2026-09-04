@@ -62,3 +62,5 @@ solution and project files are also excluded.
   the local `Library` folder, then reopen the project.
 - If a scene is not included in a build, add its `.unity` file in **Build
   Profiles**.
+
+done by aser sameh
