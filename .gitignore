@@ -1,0 +1,30 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Generated Visual Studio and Rider files
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+.vs/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Unity generated metadata
+sysinfo.txt
