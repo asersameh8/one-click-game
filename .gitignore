@@ -8,6 +8,9 @@
 [Mm]emoryCaptures/
 [Rr]ecordings/
 
+# Optional asset-pack demo content not used by the current game scenes
+Assets/Scenes/ZNS3D/
+
 # Generated Visual Studio and Rider files
 *.csproj
 *.sln
